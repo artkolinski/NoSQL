@@ -2,7 +2,7 @@
 
 ## Artur Koliński
 
-Wybrany zbiór danych - [National Statistics Postcodes UK](https://opendata.camden.gov.uk/api/views/tr8t-gqz7/rows.json?accessType=DOWNLOAD)
+Wybrany zbiór danych - [National Statistics Postcode Lookup UK](https://opendata.camden.gov.uk/api/views/tr8t-gqz7/rows.json?accessType=DOWNLOAD)
 
 (zaliczenie)
 
