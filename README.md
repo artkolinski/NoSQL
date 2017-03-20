@@ -2,16 +2,7 @@
 
 ## Artur Koliński
 
-Wybrany zbiór danych - [National Statistics Postcode Lookup UK](https://opendata.camden.gov.uk/api/views/tr8t-gqz7/rows.json?accessType=DOWNLOAD)
-
-(zaliczenie)
-
-- [ ] EDA
-- [ ] Aggregation Pipeline
-
-(egzamin)
-
-- [ ] MapReduce
+Wybrany zbiór danych 2.1Gb - [National Statistics Postcode Lookup UK](http://geoportal.statistics.gov.uk/datasets/055c2d8135ca4297a85d624bb68aefdb_0.geojson)
 
 | Nazwa | Wartosć    |
 |-----------------------|------------|
@@ -21,3 +12,12 @@ Wybrany zbiór danych - [National Statistics Postcode Lookup UK](https://opendat
 | System operacyjny | Windows 10 64-bit |
 | Wersje użytych baz danych | |
 | Wersje bibliotek | |
+
+# Zaliczenie:
+
+## Zadanie GEO
+[Zadanie GEO](https://artkolinski.github.io/NoSQL/) 
+     
+## Zadanie 1
+
+### PostgreSQL
