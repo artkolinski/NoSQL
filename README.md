@@ -21,7 +21,7 @@ Wybrany zbiór danych 2.1Gb - [National Statistics Postcode Lookup UK](http://ge
 ###Przedstawienie dancyh
 
 Przykładowy rekord:
-````` json
+```
 {
 		"type": "Feature",
 		"properties": {
@@ -46,7 +46,7 @@ Dane: [Hardware Recs](https://archive.org/download/stackexchange/hardwarerecs.st
 
 Plik: Users.xml
 
-### Konwertujemy Users.xml do csv i otrzymujemy tabele :
+#### Konwertujemy Users.xml do csv i otrzymujemy tabele :
 
 #### users.csv 
 
