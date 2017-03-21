@@ -87,7 +87,7 @@ curl -XGET "http://localhost:9200/postcodes/_search?size=2000&pretty=1" -d"
 | jq .hits.hits > mapa2.json
 ```
 [Mapa 2](https://github.com/artkolinski/NoSQL/blob/master/mapa2.geojson) 
-
+[Skrypt przetwarzający json na geojson](https://github.com/artkolinski/NoSQL/jsonToGeojson.py) 
 
 ## PostgreSQL
 
