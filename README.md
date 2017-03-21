@@ -85,13 +85,13 @@ Output: 4583
 Czas: 0,003271s
 ```
 
-<h4>Agregacja 1. 3 ostatnio dodanych użytkowników</h4>
+<h4>Agregacja 1. 5 ostatnio dodanych użytkowników</h4>
 
 ```
 SELECT DisplayName, CreationDate 
 FROM hardwareRecs.users 
 ORDER BY CreationDate 
-ASC LIMIT 3;
+ASC LIMIT 5;
 ```
 Czas:
 ```
@@ -119,6 +119,122 @@ Czas:
     <tr>
       <td>Mark</td>
       <td>2017-03-13T20:13:23.037</td>
+    </tr>
+    <tr>
+      <td>Keshav Srinivasan</td>
+      <td>2017-03-13T19:44:51.630</td>
+    </tr>
+    <tr>
+      <td>GµårÐïåñ</td>
+      <td>2017-03-13T19:42:39.580</td>
+    </tr>
+ </tbody>
+</table>
+
+<h4>Agregacja 2. 5 użytkowników którzy głosowali min. 100 razy pozytywnie i odwiedziło ich ponad 25 osób</h4>
+
+```
+SELECT DisplayName, Views, UpVotes
+FROM hardwareRecs.users 
+WHERE Views > 25 AND UpVotes > 100
+LIMIT 5;
+```
+Czas:
+```
+0,011271s
+```
+
+<h6>Output</h6>
+<br>
+<table>
+  <thead>
+    <tr>
+      <th>DisplayName</th>
+      <th>Views</th>
+      <th>UpVotes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ArtOfCode</td>
+      <td>185</td>
+      <td>695</td>
+    </tr>
+    <tr>
+      <td>Adam</td>
+      <td>84</td>
+      <td>781</td>
+    </tr>
+    <tr>
+      <td>Undo</td>
+      <td>73</td>
+      <td>254</td>
+    </tr>
+    <tr>
+      <td>Andy</td>
+      <td>56</td>
+      <td>496</td>
+    </tr>
+    <tr>
+      <td>RubyJunk</td>
+      <td>29</td>
+      <td>107</td>
+    </tr>
+ </tbody>
+</table>
+
+<h4>Agregacja 3. 5 użytkowników którzy mają conajmniej 50 lat i głosowali</h4>
+
+```
+SELECT DisplayName, UpVotes, Age
+FROM hardwareRecs.users 
+WHERE Age >= 50 AND UpVotes != 0
+LIMIT 5;
+```
+Czas:
+```
+0,0163s
+```
+
+<h6>Output</h6>
+<br>
+<table>
+  <thead>
+    <tr>
+      <th>DisplayName</th>
+      <th>UpVotes</th>
+      <th>Age</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Criggie</td>
+      <td>13</td>
+      <td>97
+</td>
+    </tr>
+    <tr>
+      <td>leeand00</td>
+      <td>2</td>
+      <td>97
+</td>
+    </tr>
+    <tr>
+      <td>S Blas</td>
+      <td>1</td>
+      <td>97
+</td>
+    </tr>
+    <tr>
+      <td>stannius</td>
+      <td>1</td>
+      <td>88
+</td>
+    </tr>
+    <tr>
+      <td>Mick</td>
+      <td>1</td>
+      <td>66</td>
     </tr>
  </tbody>
 </table>
