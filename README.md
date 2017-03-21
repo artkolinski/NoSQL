@@ -36,6 +36,59 @@ Przykładowy rekord:
 	}
 ```
 
+## Elasticsearch
+
+1. Użycie funkcji geo_distance, aby uzyskać 40 adresów w promieniu 460m od [-2.136929,57.127335]
+```
+curl -XGET "http://localhost:9200/postcodes/_search?size=40&pretty=1" -d"
+{
+    \"query\": {
+       \"bool\": {
+           \"must\": {
+              \"match_all\": {}
+           },
+           \"filter\" : {
+               \"geo_distance\" : {
+                   \"distance\" : \"0.46km\",
+                   \"geometry.coordinates\" : [-2.136929,57.127335]
+               }
+           }
+       }
+   }
+}" | jq .hits.hits > mapa1.json
+```
+[Mapa 1](https://github.com/artkolinski/NoSQL/blob/master/mapa1.geojson) 
+
+
+2. Użycie funkcji geo_polygon, aby uzyskać 2000 adresów z wielokąta ograniczonego punktami geo :
+```
+curl -XGET "http://localhost:9200/postcodes/_search?size=2000&pretty=1" -d"
+{
+    \"query\": {
+        \"bool\" : {
+            \"must\" : {
+                \"match_all\": { }
+            },
+            \"filter\" : {
+                \"geo_polygon\" : {
+                    \"geometry.coordinates\" : {
+                        \"points\" : [
+				[-2.13596,57.133292],
+				[-2.211569,57.103777],
+				[-2.270626,57.132427],
+				[-2.274715,57.182588]
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}"
+| jq .hits.hits > mapa2.json
+```
+[Mapa 2](https://github.com/artkolinski/NoSQL/blob/master/mapa2.geojson) 
+
+
 ## PostgreSQL
 
 ### Zadanie 1
