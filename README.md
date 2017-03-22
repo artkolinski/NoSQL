@@ -10,8 +10,6 @@ Wybrany zbiór danych 2.1Gb - [National Statistics Postcode Lookup UK](http://ge
 | RAM | 16 GB |
 | Dysk | SSD |
 | System operacyjny | Windows 10 64-bit |
-| Wersje użytych baz danych | |
-| Wersje bibliotek | |
 
 # Zaliczenie:
 
