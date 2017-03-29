@@ -1,0 +1,4773 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.297,
+          29.946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.702,
+          29.924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.62,
+          29.902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRNS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.365,
+          29.894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP (ABANDONED)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.379,
+          29.872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP (ABANDONED)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.585,
+          29.502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP (ABANDONED)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.137,
+          29.426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.198,
+          29.411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.256,
+          29.405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.017,
+          29.402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.978,
+          29.365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.921,
+          29.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.027,
+          29.171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "PLACE OF PRAYER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.215,
+          29.139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP (ABANDONED)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.449,
+          29.075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRNS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.881,
+          29.055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRNS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.885,
+          29.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.841,
+          28.539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.894,
+          27.768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "BARQIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7,
+          27.541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "TARAMHE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.335,
+          26.663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "AL QURAYFAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.005,
+          26.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "AZ ZAYTUNAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.573,
+          25.912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.531,
+          25.859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SHRINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.631,
+          25.702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.404,
+          25.414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SHRINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.434,
+          24.546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.032,
+          24.516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SHRINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.941,
+          24.382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "FORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.44,
+          24.288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SHRINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.738,
+          24.029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "MADAMA (FORT)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.633,
+          21.947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL200",
+        "CODE_DESC": "Ruins",
+        "NAME": null,
+        "TEXT": "RUINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.629,
+          29.925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.234,
+          29.394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "MARADAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.202,
+          29.224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL200",
+        "CODE_DESC": "Ruins",
+        "NAME": null,
+        "TEXT": "RUINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.377,
+          29.147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRNS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.872,
+          29.083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "AL FAQAHA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.369,
+          27.823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.15,
+          27.389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.121,
+          27.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "ZAWILAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.145,
+          26.169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "FORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.428,
+          21.839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "OUONOFO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.456,
+          21.193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.528,
+          21.175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP (ABANDONED)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.337,
+          29.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMPSITE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.169,
+          29.907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.848,
+          29.865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP (ABANDONED)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.822,
+          29.853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.29,
+          29.823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP (ABANDONED)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.162,
+          29.818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.615,
+          29.798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.725,
+          29.771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.275,
+          29.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL200",
+        "CODE_DESC": "Ruins",
+        "NAME": null,
+        "TEXT": "RUINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.851,
+          29.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.78,
+          29.398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP (ABANDONED)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.786,
+          29.377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.128,
+          29.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.856,
+          29.257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP (ABANDONED)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.371,
+          29.077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP (ABANDONED)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.676,
+          29.068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.135,
+          29.021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.868,
+          27.946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.846,
+          27.653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.769,
+          27.575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "QAYQAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.209,
+          27.557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "AZ ZIGHAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.919,
+          27.388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.498,
+          26.762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "FORT TARAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.356,
+          26.138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "DUJAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.657,
+          26.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.342,
+          25.938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "GAWAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.999,
+          25.909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "AL BAYDAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.222,
+          25.853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SHRINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.853,
+          25.701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.586,
+          24.923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SACRED PLACE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.185,
+          24.897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.182,
+          24.874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.368,
+          24.712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "DJANET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.484,
+          24.554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SHRINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.933,
+          24.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "ACHELOUMA (FORT)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.795,
+          22.191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "CHIRFA (FORT)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.337,
+          20.959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "DAO TIMNI (FORT)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.539,
+          20.559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "ACHENOUMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.914,
+          19.136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.276,
+          29.739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.766,
+          29.516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.013,
+          29.485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.077,
+          29.458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.324,
+          29.433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.181,
+          29.411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.166,
+          29.402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "WADDAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.142,
+          29.159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.317,
+          28.596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "WAREHOUSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.028,
+          28.435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.751,
+          27.986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.935,
+          27.822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.875,
+          27.584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "UMM AL ABID"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.028,
+          27.516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.096,
+          27.191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.073,
+          25.883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "BARDA (FORT)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.999,
+          21.363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "WOUR (FORT)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.97,
+          21.342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "GOUMEUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.439,
+          20.525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "GOUAKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.391,
+          19.798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP (ABANDONED)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.785,
+          29.849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.622,
+          29.827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.892,
+          29.793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.968,
+          29.778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.652,
+          29.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.475,
+          29.504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.098,
+          29.498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.222,
+          29.496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP (ABANDONED)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.35,
+          29.476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.029,
+          29.446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.657,
+          29.411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP (ABANDONED)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.993,
+          29.347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.133,
+          29.345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP (ABANDONED)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.476,
+          29.313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.184,
+          29.237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRNS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.613,
+          29.178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL200",
+        "CODE_DESC": "Ruins",
+        "NAME": null,
+        "TEXT": "RUINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.165,
+          29.049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "ASHKIDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.466,
+          27.551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "BRACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.253,
+          27.547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "ADRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.205,
+          27.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "TMISAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.314,
+          27.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.457,
+          27.517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "QUTTAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.717,
+          27.503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.958,
+          27.491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "QASR KHULAYF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.897,
+          26.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "JARMAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.111,
+          26.613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "AZ ZARQAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.789,
+          25.965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "UMM AL HAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.665,
+          25.939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "TRAGHAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.44,
+          25.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "FORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.318,
+          25.849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "TOMBS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.691,
+          25.817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "FORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.268,
+          25.789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "GHAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.167,
+          24.964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "MADRUSAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.527,
+          24.858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SHRINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.663,
+          24.746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.512,
+          24.718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SACRED PLACE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.679,
+          24.677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SHRINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.448,
+          24.543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "TAJARHI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.472,
+          24.362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SHRINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.271,
+          24.235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SHRINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.916,
+          24.005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "ANEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.909,
+          19.386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "EMI TCHOUMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.911,
+          19.342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "DIRKOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.899,
+          19.008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.418,
+          29.767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.348,
+          29.737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP (ABANDONED)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.767,
+          29.384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "FORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.219,
+          29.238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.066,
+          29.198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.499,
+          29.154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.526,
+          28.762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.57,
+          28.627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9,
+          28.049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.12,
+          27.196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.041,
+          26.974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "TMASSAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.789,
+          26.355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "UMM AL IZAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.293,
+          26.056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.107,
+          25.927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "TAZIRBU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.973,
+          25.721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "MAABUS IUSEF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.059,
+          25.663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "TOMMI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.527,
+          21.567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "FOCHI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.833,
+          21.513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "ZOUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.078,
+          21.323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "OSSOUNI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.163,
+          21.318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "ADERKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.428,
+          21.245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "YOUDOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.227,
+          20.513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "YONOUGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.94,
+          20.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SHERDA (FORT)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.763,
+          20.146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.025,
+          29.866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.18,
+          29.779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.648,
+          29.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.295,
+          29.448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.781,
+          29.325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP (ABANDONED)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.155,
+          29.196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP (ABANDONED)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.569,
+          29.182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.385,
+          29.175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRNS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.555,
+          29.131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.97,
+          29.117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRNS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.879,
+          29.075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.276,
+          29.019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.81,
+          28.385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "ZARZAITINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.782,
+          28.099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.943,
+          27.816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "DABDAB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.393,
+          27.576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "BARQAWI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.24,
+          27.569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "QIRAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.354,
+          27.566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.946,
+          27.511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "SAMNU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.905,
+          27.266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.443,
+          26.886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.461,
+          26.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.753,
+          26.669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.837,
+          26.659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.341,
+          26.579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.458,
+          26.564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "POLIGNAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.47,
+          26.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "UMM AL ARANIB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.732,
+          26.135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "TASAWAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.501,
+          25.979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.652,
+          25.948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.09,
+          25.921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.268,
+          25.916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "MARZUQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.918,
+          25.916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.159,
+          25.882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "FORTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.174,
+          25.869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.992,
+          25.848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SHRINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.644,
+          25.794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SHRINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.012,
+          25.776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SHRINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.881,
+          25.619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.425,
+          25.446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.027,
+          25.361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.084,
+          24.955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.533,
+          24.885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.259,
+          24.647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.162,
+          24.586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SHRINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.42,
+          24.516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SHRINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.743,
+          24.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "DJADO (FORT)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.316,
+          21.002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "ARRIGUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.91,
+          19.093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL200",
+        "CODE_DESC": "Ruins",
+        "NAME": null,
+        "TEXT": "RUINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.61,
+          29.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.963,
+          29.871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.781,
+          29.846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP (ABANDONED)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.803,
+          29.648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.479,
+          29.515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.091,
+          29.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.371,
+          29.449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.111,
+          29.314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.121,
+          29.224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "HUN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.94,
+          29.121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.783,
+          29.098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "SAWKNAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.789,
+          29.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.756,
+          28.913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.545,
+          28.551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.905,
+          27.998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.974,
+          27.297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.157,
+          25.966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "AIN EL-GIULUAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.127,
+          25.709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "AOZOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.443,
+          21.813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "NDRALI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.012,
+          21.427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "GOUBON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1,
+          20.652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "MOUSOY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.762,
+          20.499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.711,
+          29.885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.355,
+          29.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.953,
+          29.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP (ABANDONED)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.825,
+          29.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.657,
+          29.294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP (ABANDONED)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.664,
+          29.189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.087,
+          29.023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "IN AMENAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.556,
+          28.052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.877,
+          27.715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "AQAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.157,
+          27.533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "TAMANHINT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.618,
+          27.218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "SABHAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          27.065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "AL ABYAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.994,
+          26.761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "AWBARI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.729,
+          26.679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "AT TANAHMU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.628,
+          26.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "QASR LAROCU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.279,
+          26.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.948,
+          26.161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "MESEGUIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.832,
+          26.158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.551,
+          25.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "FORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.551,
+          25.912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.048,
+          25.891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "FORTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.201,
+          25.881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.291,
+          25.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "TOMBS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.737,
+          25.836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "SARDALAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.551,
+          25.789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SHRINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.542,
+          25.615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SHRINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.232,
+          25.541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.444,
+          25.513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.426,
+          25.381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SHRINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.675,
+          24.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SACRED PLACE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.69,
+          24.665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.506,
+          24.489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SHRINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.272,
+          24.246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "SHRINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.945,
+          24.081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.59,
+          29.844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.693,
+          29.608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AI030",
+        "CODE_DESC": "Camp",
+        "NAME": null,
+        "TEXT": "CAMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.091,
+          29.555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL025",
+        "CODE_DESC": "Cairn",
+        "NAME": null,
+        "TEXT": "CAIRNS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.493,
+          29.424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL200",
+        "CODE_DESC": "Ruins",
+        "NAME": null,
+        "TEXT": "RUINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.382,
+          29.174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.507,
+          28.727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "ZILLAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.565,
+          28.539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.242,
+          27.619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.218,
+          27.449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.127,
+          27.068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.991,
+          26.804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.127,
+          26.172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.009,
+          25.834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "EL GEZIRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.087,
+          25.692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.362,
+          23.561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "TOUTOFOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.66,
+          21.615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.018,
+          21.405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "OMCHI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.897,
+          21.374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "TIEBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.121,
+          21.335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "EDIMPI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.508,
+          21.119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL015",
+        "CODE_DESC": "Building",
+        "NAME": null,
+        "TEXT": "FORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.521,
+          20.466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "ZOUAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.528,
+          20.451
+        ]
+      }
+    }
+  ]
+}
