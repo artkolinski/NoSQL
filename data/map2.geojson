@@ -1,0 +1,837 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "SAKAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.23,
+          15.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.182,
+          15.821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.434,
+          15.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.353,
+          15.643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "OUARAK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.055,
+          15.519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.071,
+          15.415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.969,
+          15.326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.079,
+          15.229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "GUIRVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.164,
+          15.785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.155,
+          15.212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.237,
+          15.379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.17,
+          15.368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.636,
+          15.507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.994,
+          15.439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "YONOFERE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.457,
+          15.261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "LOUGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.246,
+          15.614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "DEK DO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.091,
+          15.594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "YANG YANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.345,
+          15.586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.895,
+          15.569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "MOUYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.531,
+          15.548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "COKI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.987,
+          15.504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.87,
+          15.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "DAHRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.479,
+          15.347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.175,
+          15.279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "HAFE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.427,
+          15.129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "DAROU-MOUSTY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.046,
+          15.041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.736,
+          15.929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "LIOU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.66,
+          15.769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "REVANE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.404,
+          15.618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "BARKEDJI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.866,
+          15.277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "NAMARI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.644,
+          15.082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "BOUDI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.939,
+          15.786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.27,
+          15.732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "NEGUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.581,
+          15.691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "LINGUERE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.116,
+          15.392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "TILMAKA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.076,
+          15.313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "SAQATA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.553,
+          15.216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.14,
+          15.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "LAGBAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.811,
+          15.826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.875,
+          15.824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "RANEROU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.956,
+          15.295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.976,
+          15.677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.031,
+          15.676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.759,
+          15.624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "BOULEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.66,
+          15.396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.169,
+          15.289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.288,
+          15.184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "YAPAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.877,
+          15.179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "DEALI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.712,
+          15.045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": "GONKOL KODIOLI SAFALBE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.41,
+          15.948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.731,
+          15.323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CODE": "AL105",
+        "CODE_DESC": "Settlement",
+        "NAME": null,
+        "TEXT": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.736,
+          15.182
+        ]
+      }
+    }
+  ]
+}
