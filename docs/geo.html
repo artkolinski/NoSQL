@@ -212,7 +212,7 @@ Na potrzeby tego zadania skorzystałem z danych pochodzących ze strony <a href=
 <pre class="code"><code>db.places.updateMany({type: &quot;Feature&quot;}, {$unset: {&quot;properties.NAME&quot;:&quot;&quot;}})
 { &quot;acknowledged&quot; : true, &quot;matchedCount&quot; : 3344, &quot;modifiedCount&quot; : 3344 }
 </code></pre>
-<p>Ustawienie indeksu aby można było kożystać z geospatial queries</p>
+<p>Ustawienie indeksu aby można było korzystać z geospatial queries</p>
 <pre><code>&gt; db.places.ensureIndex({&quot;geometry&quot; : &quot;2dsphere&quot;})
 {
         &quot;createdCollectionAutomatically&quot; : false,
