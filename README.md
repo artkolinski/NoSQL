@@ -2,7 +2,7 @@
 
 ## Artur Koliński
 
-Wybrany zbiór danych 2.1Gb - [National Statistics Postcode Lookup UK](http://geoportal.statistics.gov.uk/datasets/055c2d8135ca4297a85d624bb68aefdb_0.geojson)
+Wybrany zbiór danych 2.1Gb - [National Statistics Postcode Lookup UK](https://data.gov.uk/dataset/national-statistics-postcode-lookup-latest-centroids)
 
 | Nazwa | Wartosć    |
 |-----------------------|------------|
