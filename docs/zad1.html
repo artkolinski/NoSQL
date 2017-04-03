@@ -259,6 +259,271 @@ plot(dane$postcode, dane$distance, cex = 0.5, main=&quot;Postcode / Distance&quo
 </div>
 <div id="elasticsearch-5.2.2" class="section level2">
 <h2>ElasticSearch 5.2.2</h2>
+<p>Do importu danych z csv użyłem programu logstash-5.3.0, mój skrypt importujący wygląda następująco:</p>
+<pre class="code"><code>input {
+stdin {
+type =&gt; &quot;stdin-type&quot;
+}
+file {
+path =&gt; [&quot;C:/postcodes.csv&quot;]
+start_position =&gt; &quot;beginning&quot;
+}
+}
+filter {
+csv {
+columns =&gt; [&quot;postcode&quot;,&quot;status&quot;,&quot;usertype&quot;,&quot;easting&quot;,&quot;northing&quot;,&quot;positional_quality_indicator&quot;,&quot;country&quot;,&quot;latitude&quot;,&quot;longitude&quot;,&quot;postcode_no_space&quot;,&quot;postcode_fixed_width_seven&quot;,&quot;postcode_fixed_width_eight&quot;,&quot;postcode_area&quot;,&quot;postcode_district&quot;,&quot;postcode_sector&quot;,&quot;outcode&quot;,&quot;incode&quot;]
+separator =&gt; &quot;,&quot;
+}
+}
+output {
+stdout { codec =&gt; rubydebug }
+elasticsearch {
+hosts =&gt; &quot;localhost:9200&quot;
+index =&gt; &quot;csv_index&quot;
+}
+}
+Czas importu ~32min</code></pre>
+<p>Sprawdzenie liczby zaimportowanych danych</p>
+<pre class="code"><code>curl -XGET localhost:9200/csv_index/_count
+{&quot;count&quot;:2532817,&quot;_shards&quot;:{&quot;total&quot;:5,&quot;successful&quot;:5,&quot;failed&quot;:0}}</code></pre>
+<p>Sprawdzmy czy maping został dokonany prawidłowo podczas importu</p>
+<pre class="code"><code>curl -s &quot;http://localhost:9200/csv_index/&quot;
+{&quot;csv_index&quot;:{&quot;aliases&quot;:{},&quot;mappings&quot;:{&quot;logs&quot;:{&quot;properties&quot;:{&quot;@timestamp&quot;:{&quot;type&quot;:&quot;date&quot;},&quot;@version&quot;:{&quot;type&quot;:&quot;text&quot;,&quot;fields&quot;:{&quot;keyword&quot;:{&quot;type&quot;:&quot;keyword&quot;,&quot;ignore_above&quot;:256}}},&quot;country&quot;:{&quot;type&quot;:&quot;text&quot;,&quot;fields&quot;:{&quot;keyword&quot;:{&quot;type&quot;:&quot;keyword&quot;,&quot;ignore_above&quot;:256}}},&quot;easting&quot;:{&quot;type&quot;:&quot;text&quot;,&quot;fields&quot;:{&quot;keyword&quot;:{&quot;type&quot;:&quot;keyword&quot;,&quot;ignore_above&quot;:256}}},&quot;host&quot;:{&quot;type&quot;:&quot;text&quot;,&quot;fields&quot;:{&quot;keyword&quot;:{&quot;type&quot;:&quot;keyword&quot;,&quot;ignore_above&quot;:256}}},&quot;incode&quot;:{&quot;type&quot;:&quot;text&quot;,&quot;fields&quot;:{&quot;keyword&quot;:{&quot;type&quot;:&quot;keyword&quot;,&quot;ignore_above&quot;:256}}},&quot;latitude&quot;:{&quot;type&quot;:&quot;text&quot;,&quot;fields&quot;:{&quot;keyword&quot;:{&quot;type&quot;:&quot;keyword&quot;,&quot;ignore_above&quot;:256}}},&quot;longitude&quot;:{&quot;type&quot;:&quot;text&quot;,&quot;fields&quot;:{&quot;keyword&quot;:{&quot;type&quot;:&quot;keyword&quot;,&quot;ignore_above&quot;:256}}},&quot;message&quot;:{&quot;type&quot;:&quot;text&quot;,&quot;fields&quot;:{&quot;keyword&quot;:{&quot;type&quot;:&quot;keyword&quot;,&quot;ignore_above&quot;:256}}},&quot;northing&quot;:{&quot;type&quot;:&quot;text&quot;,&quot;fields&quot;:{&quot;keyword&quot;:{&quot;type&quot;:&quot;keyword&quot;,&quot;ignore_above&quot;:256}}},&quot;outcode&quot;:{&quot;type&quot;:&quot;text&quot;,&quot;fields&quot;:{&quot;keyword&quot;:{&quot;type&quot;:&quot;keyword&quot;,&quot;ignore_above&quot;:256}}},&quot;path&quot;:{&quot;type&quot;:&quot;text&quot;,&quot;fields&quot;:{&quot;keyword&quot;:{&quot;type&quot;:&quot;keyword&quot;,&quot;ignore_above&quot;:256}}},&quot;positional_quality_indicator&quot;:{&quot;type&quot;:&quot;text&quot;,&quot;fields&quot;:{&quot;keyword&quot;:{&quot;type&quot;:&quot;keyword&quot;,&quot;ignore_above&quot;:256}}},&quot;postcode&quot;:{&quot;type&quot;:&quot;text&quot;,&quot;fields&quot;:{&quot;keyword&quot;:{&quot;type&quot;:&quot;keyword&quot;,&quot;ignore_above&quot;:256}}},&quot;postcode_area&quot;:{&quot;type&quot;:&quot;text&quot;,&quot;fields&quot;:{&quot;keyword&quot;:{&quot;type&quot;:&quot;keyword&quot;,&quot;ignore_above&quot;:256}}},&quot;postcode_district&quot;:{&quot;type&quot;:&quot;text&quot;,&quot;fields&quot;:{&quot;keyword&quot;:{&quot;type&quot;:&quot;keyword&quot;,&quot;ignore_above&quot;:256}}},&quot;postcode_fixed_width_eight&quot;:{&quot;type&quot;:&quot;text&quot;,&quot;fields&quot;:{&quot;keyword&quot;:{&quot;type&quot;:&quot;keyword&quot;,&quot;ignore_above&quot;:256}}},&quot;postcode_fixed_width_seven&quot;:{&quot;type&quot;:&quot;text&quot;,&quot;fields&quot;:{&quot;keyword&quot;:{&quot;type&quot;:&quot;keyword&quot;,&quot;ignore_above&quot;:256}}},&quot;postcode_no_space&quot;:{&quot;type&quot;:&quot;text&quot;,&quot;fields&quot;:{&quot;keyword&quot;:{&quot;type&quot;:&quot;keyword&quot;,&quot;ignore_above&quot;:256}}},&quot;postcode_sector&quot;:{&quot;type&quot;:&quot;text&quot;,&quot;fields&quot;:{&quot;keyword&quot;:{&quot;type&quot;:&quot;keyword&quot;,&quot;ignore_above&quot;:256}}},&quot;status&quot;:{&quot;type&quot;:&quot;text&quot;,&quot;fields&quot;:{&quot;keyword&quot;:{&quot;type&quot;:&quot;keyword&quot;,&quot;ignore_above&quot;:256}}},&quot;usertype&quot;:{&quot;type&quot;:&quot;text&quot;,&quot;fields&quot;:{&quot;keyword&quot;:{&quot;type&quot;:&quot;keyword&quot;,&quot;ignore_above&quot;:256}}}}}},&quot;settings&quot;:{&quot;index&quot;:{&quot;creation_date&quot;:&quot;1491224430222&quot;,&quot;number_of_shards&quot;:&quot;5&quot;,&quot;number_of_replicas&quot;:&quot;1&quot;,&quot;uuid&quot;:&quot;163JkMJDQQWRL7otLJLejw&quot;,&quot;version&quot;:{&quot;created&quot;:&quot;5020299&quot;},&quot;provided_name&quot;:&quot;csv_index&quot;}}}}</code></pre>
+<p>Szukamy kodu ‘M11AA’:</p>
+<pre class="code"><code>curl -s &quot;http://localhost:9200/csv_index/_search?pretty=true&amp;q=postcode_no_space:'M11AA'&quot;
+{
+  &quot;took&quot; : 21,
+  &quot;timed_out&quot; : false,
+  &quot;_shards&quot; : {
+    &quot;total&quot; : 5,
+    &quot;successful&quot; : 5,
+    &quot;failed&quot; : 0
+  },
+  &quot;hits&quot; : {
+    &quot;total&quot; : 1,
+    &quot;max_score&quot; : 12.727802,
+    &quot;hits&quot; : [
+      {
+        &quot;_index&quot; : &quot;csv_index&quot;,
+        &quot;_type&quot; : &quot;logs&quot;,
+        &quot;_id&quot; : &quot;AVsz8J-1mvZBZk3K4IVs&quot;,
+        &quot;_score&quot; : 12.727802,
+        &quot;_source&quot; : {
+          &quot;postcode_district&quot; : &quot;M1&quot;,
+          &quot;country&quot; : &quot;England&quot;,
+          &quot;easting&quot; : &quot;385022&quot;,
+          &quot;positional_quality_indicator&quot; : &quot;1&quot;,
+          &quot;latitude&quot; : &quot;53.487362&quot;,
+          &quot;postcode_fixed_width_eight&quot; : &quot;M1   1AA&quot;,
+          &quot;postcode&quot; : &quot;M1 1AA&quot;,
+          &quot;usertype&quot; : &quot;large&quot;,
+          &quot;message&quot; : &quot;M1 1AA,terminated,large,385022,398985,1,England,53.487362,-2.227197,M11AA,M1  1AA,M1   1AA,M,M1,M1 1,M1,1AA&quot;,
+          &quot;northing&quot; : &quot;398985&quot;,
+          &quot;path&quot; : &quot;C:/postcodes.csv&quot;,
+          &quot;postcode_sector&quot; : &quot;M1 1&quot;,
+          &quot;@timestamp&quot; : &quot;2017-04-03T13:10:59.054Z&quot;,
+          &quot;postcode_fixed_width_seven&quot; : &quot;M1  1AA&quot;,
+          &quot;outcode&quot; : &quot;M1&quot;,
+          &quot;@version&quot; : &quot;1&quot;,
+          &quot;host&quot; : &quot;DESKTOP-MJ9FGTH&quot;,
+          &quot;postcode_area&quot; : &quot;M&quot;,
+          &quot;postcode_no_space&quot; : &quot;M11AA&quot;,
+          &quot;incode&quot; : &quot;1AA&quot;,
+          &quot;status&quot; : &quot;terminated&quot;,
+          &quot;longitude&quot; : &quot;-2.227197&quot;
+        }
+      }
+    ]
+  }
+}</code></pre>
+<p>Szukamy kodu ‘RG46SU’:</p>
+<pre class="code"><code>curl -s &quot;http://localhost:9200/csv_index/_search?pretty=true&amp;q=postcode_no_space:'RG46SU'&quot;
+{
+  &quot;took&quot; : 2,
+  &quot;timed_out&quot; : false,
+  &quot;_shards&quot; : {
+    &quot;total&quot; : 5,
+    &quot;successful&quot; : 5,
+    &quot;failed&quot; : 0
+  },
+  &quot;hits&quot; : {
+    &quot;total&quot; : 1,
+    &quot;max_score&quot; : 12.728338,
+    &quot;hits&quot; : [
+      {
+        &quot;_index&quot; : &quot;csv_index&quot;,
+        &quot;_type&quot; : &quot;logs&quot;,
+        &quot;_id&quot; : &quot;AVsz9K54mvZBZk3K6NHf&quot;,
+        &quot;_score&quot; : 12.728338,
+        &quot;_source&quot; : {
+          &quot;postcode_district&quot; : &quot;RG4&quot;,
+          &quot;country&quot; : &quot;England&quot;,
+          &quot;easting&quot; : &quot;475249&quot;,
+          &quot;positional_quality_indicator&quot; : &quot;1&quot;,
+          &quot;latitude&quot; : &quot;51.470889&quot;,
+          &quot;postcode_fixed_width_eight&quot; : &quot;RG4  6SU&quot;,
+          &quot;postcode&quot; : &quot;RG4 6SU&quot;,
+          &quot;usertype&quot; : &quot;large&quot;,
+          &quot;message&quot; : &quot;RG4 6SU,live,large,475249,175213,1,England,51.470889,-0.918018,RG46SU,RG4 6SU,RG4  6SU,RG,RG4,RG4 6,RG4,6SU&quot;,
+          &quot;northing&quot; : &quot;175213&quot;,
+          &quot;path&quot; : &quot;C:/postcodes.csv&quot;,
+          &quot;postcode_sector&quot; : &quot;RG4 6&quot;,
+          &quot;@timestamp&quot; : &quot;2017-04-03T13:15:24.975Z&quot;,
+          &quot;postcode_fixed_width_seven&quot; : &quot;RG4 6SU&quot;,
+          &quot;outcode&quot; : &quot;RG4&quot;,
+          &quot;@version&quot; : &quot;1&quot;,
+          &quot;host&quot; : &quot;DESKTOP-MJ9FGTH&quot;,
+          &quot;postcode_area&quot; : &quot;RG&quot;,
+          &quot;postcode_no_space&quot; : &quot;RG46SU&quot;,
+          &quot;incode&quot; : &quot;6SU&quot;,
+          &quot;status&quot; : &quot;live&quot;,
+          &quot;longitude&quot; : &quot;-0.918018&quot;
+        }
+      }
+    ]
+  }
+}</code></pre>
+<p>Szukamy współrzędnych geograficznych dla kodu ‘RG46SU’:</p>
+<pre class="code"><code>Curl -s &quot;http://localhost:9200/csv_index/_search?pretty=true&amp;q=postcode_no_space:'RG46SU'&amp;filter_path=took,hits.hits._source.longitude,hits.hits._source.latitude&quot;
+{
+  &quot;took&quot; : 2,
+  &quot;hits&quot; : {
+    &quot;hits&quot; : [
+      {
+        &quot;_source&quot; : {
+          &quot;latitude&quot; : &quot;51.470889&quot;,
+          &quot;longitude&quot; : &quot;-0.918018&quot;
+        }
+      }
+    ]
+  }
+}</code></pre>
+<p>Teraz chcemy znaleźć współrzędne wieży w Londynie “The Tower of London”:</p>
+<pre class="code"><code>Curl -s &quot;http://localhost:9200/csv_index/_search?pretty=true&amp;q=postcode_no_space:'EC3N4AB'&amp;filter_path=took,hits.hits._source.latitude,hits.hits._source.longitude&quot;
+{
+  &quot;took&quot; : 2,
+  &quot;hits&quot; : {
+    &quot;hits&quot; : [
+      {
+        &quot;_source&quot; : {
+          &quot;latitude&quot; : &quot;51.470889&quot;,
+          &quot;longitude&quot; : &quot;-0.918018&quot;
+        }
+      }
+    ]
+  }
+}</code></pre>
+<p>Następnie chcemy znaleźć kurs wschodni oraz północny wieży w Londynie “The Tower of London”:</p>
+<pre class="code"><code>Curl -s &quot;http://localhost:9200/csv_index/_search?pretty=true&amp;q=postcode_no_space:'EC3N4AB'&amp;filter_path=took,hits.hits._source.easting,hits.hits._source.northing&quot;
+{
+  &quot;took&quot; : 2,
+  &quot;hits&quot; : {
+    &quot;hits&quot; : [
+      {
+        &quot;_source&quot; : {
+          &quot;easting&quot; : &quot;533602&quot;,
+          &quot;northing&quot; : &quot;180570&quot;
+        }
+      }
+    ]
+  }
+}</code></pre>
+</div>
+<div id="podsumowanie" class="section level2">
+<h2>Podsumowanie</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Zadanie</th>
+<th>Czas ElasticSearch</th>
+<th>Czas PostgreSQL</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>import danych 2,5mln</td>
+<td>32min</td>
+<td>11s</td>
+</tr>
+<tr class="even">
+<td>wyszukanie ‘M11AA’</td>
+<td>21ms</td>
+<td>408ms</td>
+</tr>
+<tr class="odd">
+<td>wyszukanie ‘RG46SU’</td>
+<td>2ms</td>
+<td>380ms</td>
+</tr>
+<tr class="even">
+<td>wyszukanie ‘RG46SU’</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>lat / lon</td>
+<td>2ms</td>
+<td>383ms</td>
+</tr>
+<tr class="even">
+<td>wyszukanie ‘EC3N4AB’</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>lat / lon</td>
+<td>2ms</td>
+<td>285ms</td>
+</tr>
+<tr class="even">
+<td>wyszukanie ‘EC3N4AB’</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>easting/northing</td>
+<td>2ms</td>
+<td>290ms</td>
+</tr>
+</tbody>
+</table>
+<p>Skala ocen 1-10 (więcej = lepiej)</p>
+<table>
+<thead>
+<tr class="header">
+<th>Kryteria</th>
+<th>ElasticSearch</th>
+<th>PostgreSQL</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>import danych</td>
+<td>2</td>
+<td>10</td>
+</tr>
+<tr class="even">
+<td>latwość użycia</td>
+<td>5</td>
+<td>7</td>
+</tr>
+<tr class="odd">
+<td>predkość nauki</td>
+<td>1</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>czas odpowiedzi</td>
+<td>10</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>czas tworzenia zap.</td>
+<td>1</td>
+<td>9</td>
+</tr>
+</tbody>
+</table>
 </div>
 </div>
 
